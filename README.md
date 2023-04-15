@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="text-align: justify;">
+  <p> I am graduated with a Bachelor's degree in Physics from the Universidade do Estado do Rio de Janeiro (UERJ). As a curious person since childhood, I immersed myself in the scientific world. Currently, I am a Master's degree holder in Physics from the Centro Brasileiro de Pesquisas Físicas (CBPF). Additionally, I am currently in my final year of a PhD in Physics with an exchange program at the University of Warwick.</p>
+  <p>I can say that immersed in this environment, I have become a person with a strong analytical mindset and a passion for learning new knowledge. Throughout my academic journey, I have been exposed to various technologies for data interpretation, such as Python for data analysis, SQL (SQLite and MySQL) for database management, and version control with Git and GitHub. These tools have been essential for interpreting data on the physical properties of new materials. As an experimental physicist, creating new materials (such as perovskite oxides) requires critical rigor from synthesis to the final characterization of structural and magnetic properties.</p>
+  <p>For example, in my master's and doctoral research, I needed to create a database based on interpretations of experimentally measured physical properties. With this database, I conducted correlational tests and developed physical models. Therefore, familiarity with Python for data processing, modeling, and visualization was essential, using libraries such as Pandas, Numpy, Scipy, Scikit, Statistics, Matplotlib, and Plotly.</p>
+  <p>Here on this page, you will also find my published works in the academic field of physics, in well-renowned journals, and you can take a look at these works "right here". </p>
+</div>
