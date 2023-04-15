@@ -3,13 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=+My+name+is+Calazans+and+I'm+a+Data+Scientist)](https://git.io/typing-svg)
 
-
 <p>What I've been up to...<br>
 -🔭 I’m currently developing personal projects and i'm looking for a new one.</br>
 -🌱 I’m currently learning Pyspark, Machine learning tools, DataBricks, Appache and Solidity.<br>
 -👯 I’m looking for new projects to collaborate on, speacially on web 3.0 and criptoverse</br>
 -💬 Do not hesitate asking me about data validity, charts, and physics!</p>
-
 
 ## 🖖 About me
 <div>
@@ -25,12 +23,13 @@
 ### Technologies
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"><img src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"><img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src= "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"><img src= "https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
 
+
+
 <div align="center">
   <br><p><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Calazansmacchiutti}/count.svg" /></p> 
 <br></div>
   
-
 <!--
 **Calazansmacchiutti/Calazansmacchiutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
