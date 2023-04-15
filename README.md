@@ -5,10 +5,10 @@
 
 
 <p>What I've been up to...<br>
--🔭 I’m currently developing personal projects and i'm looking for a new project.</br>
+-🔭 I’m currently developing personal projects and i'm looking for a new one.</br>
 -🌱 I’m currently learning Pyspark, Machine learning tools, DataBricks, Appache and Solidity.<br>
--👯 I’m looking to collaborate on any projects I can, but I have a special interest on web 3.0 and criptoverse</br>
--💬 Ask me about data validity, charts, and physics!</p>
+-👯 I’m looking for new projects to collaborate on, speacially on web 3.0 and criptoverse</br>
+-💬 Do not hesitate asking me about data validity, charts, and physics!</p>
 
 
 ## 🖖 About me
